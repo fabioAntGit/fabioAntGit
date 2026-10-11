@@ -125,7 +125,6 @@ def hero():
               'M14 10 C 22 6, 30 14, 24 20 C 18 26, 10 20, 14 14', 'M8 24 C 16 18, 26 16, 34 20',
               'M18 12 L 30 8']))
           + '</g>'
-          + s.text(px + 132, py + 290, 'hello, world!', 'hand-md', 30, anchor='middle')
           + '</g>')
     # a strip of blue tape holding it
     tx, ty = px + 82, py - 18
