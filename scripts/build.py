@@ -256,7 +256,7 @@ def avow():
     for line in wrap(blurb, 'body', 15.5, 396):
         left += s.text(tx, ly, line, 'body', 15.5, attrs='opacity=".88"')
         ly += 23.5
-    left += s.text(tx, ly + 14, 'MULTI-AGENT · SEC FILINGS · XBRL · CITATIONS', 'mono', 11.5, tracking=.06,
+    left += s.text(tx, ly + 14, 'MULTI-AGENT · SEC FILINGS · XBRL', 'mono', 11.5, tracking=.06,
                    attrs='opacity=".72"')
 
     # right: dark panel with a chalk sketch of the loop
