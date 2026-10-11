@@ -366,7 +366,7 @@ def footer():
 if __name__ == '__main__':
     print('building assets/')
     hero()
-    for name, label, tilt in [('email', 'SEND EMAIL', -2), ('linkedin', 'LINKEDIN', 1.5), ('site', 'PORTFOLIO', -1.2)]:
+    for name, label, tilt in [('linkedin', 'LINKEDIN', -2), ('site', 'PORTFOLIO', 1.5)]:
         button(name, label, tilt)
     for dark in (False, True):
         heading('h-projects', 'Projects', 'SELECTED WORK · 05', dark)

@@ -1,7 +1,6 @@
 <a href="https://fabioportfolio.com"><img src="assets/hero.svg" width="100%" alt="Fábio Antunes. AI / Software Engineer from Portugal. Looking for real problems to solve along the way to my Master's in AI."></a>
 
 <p align="center">
-  <a href="mailto:contactfabioant@gmail.com"><img src="assets/btn-email.svg" height="58" alt="Send email"></a>
   <a href="https://www.linkedin.com/in/fabioAntunesPT"><img src="assets/btn-linkedin.svg" height="58" alt="LinkedIn"></a>
   <a href="https://fabioportfolio.com"><img src="assets/btn-site.svg" height="58" alt="Portfolio"></a>
 </p>
