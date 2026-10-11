@@ -23,15 +23,4 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-oss-dark.svg">
-  <img src="assets/h-oss-light.svg" width="100%" alt="Open Source Contributions">
-</picture>
-
-<!-- OSS:START -->
-<a href="https://github.com/BerriAI/moyai/pulls?q=is%3Apr+is%3Amerged+author%3AfabioAntGit"><img src="assets/oss.svg" width="100%" alt="Open-source contributions. BerriAI/moyai: 1 merged PR, 20 commits, 0 issues opened."></a>
-<!-- OSS:END -->
-
-<br>
-
 <a href="https://fabioportfolio.com"><img src="assets/footer.svg" width="100%" alt="Thanks for scrolling. fabioportfolio.com"></a>
