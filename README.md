@@ -18,7 +18,7 @@
   <a href="https://github.com/fabioAntGit/ATTESTA-zkML-Proof-of-Inference-Verifier"><img src="assets/card-attesta.svg" width="49%" alt="Attesta: zero-knowledge proof of an ML prediction, verified on-chain. Python, PyTorch, EZKL, Solidity."></a>
   <a href="https://github.com/fabioAntGit/PoliTutor"><img src="assets/card-politutor.svg" width="49%" alt="PoliTutor: full-stack AI tutoring platform with a RAG pipeline built from scratch. Python, React, FastAPI, MongoDB, Redis, ChromaDB."></a>
   <a href="https://github.com/fabioAntGit/Chair-Computer-Vision"><img src="assets/card-chair-cv.svg" width="49%" alt="Chair Computer Vision: three YOLO architectures trained and benchmarked to detect chairs and their components."></a>
-  <a href="https://github.com/fabioAntGit/LevelEstateApp"><img src="assets/card-levelestate.svg" width="49%" alt="LevelEstate: real-estate web and mobile platform. .NET, Angular, Kotlin, SQL Server."></a>
+  <a href="https://github.com/fabioAntGit/LDS-LevelEstate"><img src="assets/card-levelestate.svg" width="49%" alt="LevelEstate: real-estate web and mobile platform. .NET, Angular, Kotlin, SQL Server."></a>
 </p>
 
 <br>
